@@ -1,3 +1,7 @@
+Thankyou:
+Matěj Humpál
+Ian Back
+
 mPDF is a PHP library which generates PDF files from UTF-8 encoded HTML.
 
 It is based on [FPDF](http://www.fpdf.org/) and [HTML2FPDF](http://html2fpdf.sourceforge.net/)
