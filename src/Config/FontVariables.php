@@ -285,6 +285,12 @@ class FontVariables
                 "unbatang" => [/* Korean */
                     'R' => "UnBatang_0613.ttf",
                 ],
+                'sarabun' => [
+                    'R' => "Sarabun.ttf",
+                    'B' => "Sarabun-Bold.ttf",
+                    'I' => "Sarabun-Italic.ttf",
+                    'BI' => "Sarabun-BoldItalic.ttf",
+                ],
             ],
 
             // Add fonts to this array if they contain characters in the SIP or SMP Unicode planes
@@ -319,15 +325,6 @@ class FontVariables
 
             'mono_fonts' => ['dejavusansmono', 'mono', 'monospace', 'freemono', 'liberationmono', 'courier', 'ocrb', 'ocr-b', 'lucidaconsole',
                 'couriernew', 'monotypecorsiva'
-            ],
-
-            'sarabun' => [
-                'R' => "SarabunNew.ttf",
-                'B' => "SarabunNew-Bold.ttf",
-                'I' => "SarabunNew-Italic.ttf",
-                'BI' => "SarabunNew-BoldItalic.ttf",
-                'useOTL' => 0xFF,
-                'useKashida' => 75,
             ],
         ];
     }
