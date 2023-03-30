@@ -291,6 +291,9 @@ class FontVariables
                     'I' => "Sarabun-Italic.ttf",
                     'BI' => "Sarabun-BoldItalic.ttf",
                 ],
+                'segoe-script' => [
+                    'R' => "segoesc.ttf",
+                ],
             ],
 
             // Add fonts to this array if they contain characters in the SIP or SMP Unicode planes
