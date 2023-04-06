@@ -292,7 +292,7 @@ class FontVariables
                     'BI' => "Sarabun-BoldItalic.ttf",
                 ],
                 'segoescript' => [
-                    'R' => "segoesc.ttf",
+                    'R' => "segoescript.ttf",
                 ],
             ],
 
