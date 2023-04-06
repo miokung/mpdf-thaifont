@@ -1,5 +1,6 @@
 {
   "name": "miokung/mpdf-thaifont",
+  "version": "dev-master-1.0.0",
   "type": "library",
   "description": "PHP library generating PDF files from UTF-8 encoded HTML",
   "keywords": [
